@@ -141,7 +141,8 @@
 <a> 
   <a href="https://github.com/Yuvraj960"><img alt="Yuvraj's Github Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=Yuvraj960&theme=dark&hide_border=fals" height="192px" width="49.5%"/></a>
   <a href="https://github.com/Yuvraj960"><img alt="Yuvraj's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Yuvraj960&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <a href="https://github.com/Yuvraj960" align="center"><img alt="Yuvraj's Github Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=Yuvraj960&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%" align = "center"/></a>
+  <!-- <a href="https://github.com/Yuvraj960" align="center"><img alt="Yuvraj's Github Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=Yuvraj960&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%" align = "center"/></a> -->
+  ![Yuvraj960's Stats](https://github-readme-stats.vercel.app/api?username=Yuvraj960&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
   <br/>
   <br/>
 </a>
