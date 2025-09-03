@@ -147,8 +147,6 @@
 </a>
 </p>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yuvraj960&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-
 <p align="center">
   <a href="https://github.com/Yuvraj960">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Yuvraj960&theme=radical" alt="Yuvraj's GitHub Contribution"/>
@@ -157,10 +155,3 @@
 
 ![Yuvraj's Graph](https://github-readme-activity-graph.vercel.app/graph?username=Yuvraj960&custom_title=Yuvraj's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 
-<!-- ### ✍️ Random Dev Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-
-<!-- ### 😂 Random Dev Meme
-
-<img src='https://memer-new.vercel.app/' style="height: 400px;"/> -->
